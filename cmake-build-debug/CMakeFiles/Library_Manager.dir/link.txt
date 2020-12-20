@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Library_Manager.dir/main.c.o -o Library_Manager  -lsqlite3 
